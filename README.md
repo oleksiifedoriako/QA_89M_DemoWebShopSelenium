@@ -1,6 +1,6 @@
 # QA_89M_DemoWebShopSelenium
 
-HW 24.11 — Selenium project for <https://demowebshop.tricentis.com/>.
+HW 24.11.2026 — Selenium project for <https://demowebshop.tricentis.com/>.
 
 Find 10 tags with `By.TAG_NAME` and `By.CSS_SELECTOR`:
 `div`, `a`, `ul`, `li`, `span`, `input`, `img`, `strong`, `h2`, `form` (+ extra `label`, `h3`, `p`).

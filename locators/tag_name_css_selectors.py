@@ -1,4 +1,4 @@
-"""HW 24.11 - demowebshop.tricentis.com
+"""HW 24.11.2026 - demowebshop.tricentis.com
 
 Find 10 tags using two strategies: By.TAG_NAME and By.CSS_SELECTOR.
 
