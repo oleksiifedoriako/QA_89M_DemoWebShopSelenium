@@ -11,4 +11,3 @@ Find 10 tags with `By.TAG_NAME` and `By.CSS_SELECTOR`:
 pip install -r requirements.txt
 python locators/tag_name_css_selectors.py
 ```
-- [CODE_EXPLANATION.md](CODE_EXPLANATION.md) — подробный разбор кода
